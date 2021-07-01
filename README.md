@@ -5,4 +5,10 @@ I am using the NASA NEX climate data: https://registry.opendata.aws/nasanex/ to 
 
 Contains:
 
-Jupyter Notebook file: temperature_prediction
+Jupyter Notebook file: 
+  - temperature_prediction
+  - City_temperature
+
+Video
+  - Carte_video.mp4
+
