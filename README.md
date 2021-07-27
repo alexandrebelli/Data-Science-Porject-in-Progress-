@@ -10,5 +10,9 @@ Jupyter Notebook file:
   - City_temperature
 
 Video
-  - Carte_video_2100.mp4
-  - Carte_video_2015.mp4
+  - video_2100.mp4
+  - video_2015.mp4
+
+Slides
+  - TDI_project_Belli.pdf
+  - TDI_project_Belli.pptx
