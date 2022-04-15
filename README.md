@@ -1,18 +1,10 @@
+GOAL:
 
+This project aims to predict the trend of the tempertaure in the next 100 years for two US cities; New-York and Los-Angeles. This project is not trying to predict the exact temperature at a specific date, rather to predict the frequency of heat waves in the future. By heat waves, I am considering a month where the average temperature is above a certain threshold.
 
-I am using the NASA NEX climate data: https://registry.opendata.aws/nasanex/ to predict the next population migration of the American population due to global warming and climate change. Particularly, I want to focus on the evolution of temperature for a set of big US cities and see if the temperature becomes too high and if these cities' lives become challenging.
+DATA:
 
+I am working with the NOAA climate data:
+https://www.ncdc.noaa.gov/cag/city/time-series/USH00305801/tavg/all/12/1895-2021?base_prd=true&begbaseyear=1901&endbaseyear=2000
+This allow to select a city and a date range for the average monthly temperature.
 
-Contains:
-
-Jupyter Notebook file: 
-  - temperature_prediction
-  - City_temperature
-
-Video
-  - video_2100.mp4
-  - video_2015.mp4
-
-Slides
-  - TDI_project_Belli.pdf
-  - TDI_project_Belli.pptx
